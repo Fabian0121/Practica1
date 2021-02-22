@@ -1,0 +1,27 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+   background-color: #FFFFFF;
+}
+.container	 {
+  margin-top: 20px;
+  box-sizing: content-box;
+  max-width: 350px;
+  height: auto;
+  background: #D3E3DB;
+  text-align: left;
+  margin: 10px;
+  color: black;
+  margin: 10px;
+  padding: 10px;
+
+}
+.contenido{
+	background-color: #D3F9EF;
+	max-width: 750px;
+  margin-top: 50px;
+  	border: 2px solid #ccc;
+   text-align: center;
+}
